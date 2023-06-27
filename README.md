@@ -1,2 +1,2 @@
-# JS_projects
-JavaScript projects
+# JS_game
+Guess my number
